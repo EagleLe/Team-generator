@@ -1,6 +1,6 @@
 # Team-generator
 
-
+Application that uses node, html, and javascript to create a html file for a generated team. In this application,I used inquirer npm package for the prompts. The users completes prompts in a template to create this html file.
 
 # Walkthrough
 
