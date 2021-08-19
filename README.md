@@ -4,7 +4,7 @@ Application that uses node, html, and javascript to create a html file for a gen
 
 # Walkthrough
 
-![Node index](https://user-images.githubusercontent.com/85507148/130030328-5cb0a2b8-697b-45b6-b3e0-757b3f5a6aa9.gif)
+![Walkthrough](https://user-images.githubusercontent.com/85507148/130039612-cfb314b4-ece1-4597-9fdc-b90d81e13192.gif)
 
 # Output HTML File: 
 
